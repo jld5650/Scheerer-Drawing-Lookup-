@@ -383,10 +383,41 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="References\Drawing Lookup.application" />
+    <None Include="References\Drawing Lookup.exe.config" />
+    <None Include="References\Drawing Lookup.exe.manifest" />
+    <None Include="References\Drawing Lookup.vshost.application" />
+    <None Include="References\Drawing Lookup.vshost.exe.config" />
+    <None Include="References\Drawing Lookup.vshost.exe.manifest" />
+    <None Include="References\DrawingLookup.vshost.exe.config" />
+    <None Include="References\drawingSync--20151029_032926" />
+    <None Include="References\drawingSync--20151029_033010" />
+    <None Include="References\drawingSync--20151029_033120" />
+    <None Include="References\drawingSync--20151029_033559" />
+    <None Include="References\drawingSync--20151029_033620" />
+    <None Include="References\drawingSync--20151029_033718" />
+    <None Include="References\drawingSync--20151029_033826" />
+    <None Include="References\drawingSync--20151029_033900" />
+    <None Include="References\drawingSync--20151029_033901" />
+    <None Include="References\drawingSync--20151029_033928" />
     <None Include="Resources\windows-8-plain-color-orange-backgrounds-1920x1080.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
+    <Content Include="References\Apitron.PDF.Controls.dll" />
+    <Content Include="References\Apitron.PDF.Rasterizer.dll" />
+    <Content Include="References\AxInterop.AcroPDFLib.dll" />
+    <Content Include="References\AxInterop.XcpControlLib.dll" />
+    <Content Include="References\Drawing Lookup.exe" />
+    <Content Include="References\Drawing Lookup.pdb" />
+    <Content Include="References\Drawing Lookup.vshost.exe" />
+    <Content Include="References\Drawing Lookup.xml" />
+    <Content Include="References\IKVM.OpenJDK.Core.dll" />
+    <Content Include="References\IKVM.OpenJDK.SwingAWT.dll" />
+    <Content Include="References\Interop.AcroPDFLib.dll" />
+    <Content Include="References\Interop.XcpControlLib.dll" />
+    <Content Include="References\itextsharp.dll" />
+    <Content Include="References\pdfbox-1.8.9.dll" />
     <None Include="Resources\ScheererBearing_PMSlogo.ico" />
     <None Include="Resources\ScheererBearing_PMSlogo.jpg" />
   </ItemGroup>
