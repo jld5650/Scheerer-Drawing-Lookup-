@@ -32,18 +32,15 @@ are moved programatically after they are synced. The Log Folder creates a text f
 
 ** File name requirements
 PARTNAME-PARTTYPE-DATE-REVISION
-
 ex. 52-SL-AD-010117-REV0
-
 Part types: AD, MD, CD, VD, RD, PD, XD FD(Assembly Drawing, Machine Drawing, Customer Drawing, Vendor Drawing, 
-Roller Drawing, Component Drawing, Finish Drawing, Cage Drawing)
-
-Dates: 6 digit date
-
-Revisions: A-N**
+ Roller Drawing, Component Drawing, Finish Drawing, Cage Drawing)
+Dates: 6 digit number
+Revisions: A-N **
 
 -Go back to the menu form
 -The first three buttons take you to datagrids accompanied by Adobe Pdf Readers
+
 **'Full View and Edit' (Admins) lets you view and (Add/Delete/Update) individual files. (Some issues with 'Update' function)
   'Full View' (Admins and Vice Admins) lets you view but not edit.
   'Partial View' (Admins, Vice-Admins, and Sales) only lets you see Customer Drawings with a less capable pdf viewer and image stamp.**
@@ -53,9 +50,9 @@ Revisions: A-N**
 -Right click to view a file in a folder(Admin/Vice Admin only)
 -Type in search to search part name
 
-I used Microsoft Access being that it was a small office application 5-8 people. I would probably not use it again. We were able to hide the main drawing folder 
+**I used Microsoft Access being that it was a small office application 5-8 people. I would probably not use it again. We were able to hide the main drawing folder 
 from peering eyes while still giving read rights sales. I would do a million things knowing what I know now but I am happy with the results. I would
-love to go back to Scheerer Bearing one day and create something better. Their database hold over 13,000 records to this day. Thanks for viewing.
+love to go back to Scheerer Bearing one day and create something better. Their database hold over 13,000 records to this day. Thanks for viewing.**
 
 
 
