@@ -17,7 +17,7 @@ Instructions <br>
 -Run the application <br>
 -Click 'Preset'<br>
 -On the next form browse for the database inside the 'Drawing Lookup Test Folder'<br>
--Login using 'JorgeD', '1234'(capitalization matters)<br><br><br>
+-Login using 'JorgeD', '1234'(capitalization matters)<br>
 -On the next form click 'Sync Files'<br>
 -On the next form click 'Settings'<br>
 -On the next form and on each input field, browse or paste the file path for each  corresponding folder inside 'Drawing Lookup Test Folder'
