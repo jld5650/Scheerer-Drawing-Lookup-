@@ -14,7 +14,7 @@ working at UPS. I was programming for about a year and a half at the end of my i
 
 Instructions 
 
--Run the application
+-Run the application <br>
 -Click 'Preset'
 -On the next form browse for the database inside the 'Drawing Lookup Test Folder'
 -Login using 'JorgeD', '1234'(capitalization matters)
