@@ -12,23 +12,23 @@ I merged both together into one application. When the application was deployed, 
 with the satisfaction that I made a difference in a company's day to day operations. This was all done while I was still at college and while
 working at UPS. I was programming for about a year and a half at the end of my internship (near-end of 2015).
 
-Instructions 
+Instructions <br>
 
 -Run the application <br>
--Click 'Preset'
--On the next form browse for the database inside the 'Drawing Lookup Test Folder'
--Login using 'JorgeD', '1234'(capitalization matters)
--On the next form click 'Sync Files'
--On the next form click 'Settings'
+-Click 'Preset'<br>
+-On the next form browse for the database inside the 'Drawing Lookup Test Folder'<br>
+-Login using 'JorgeD', '1234'(capitalization matters)<br><br><br>
+-On the next form click 'Sync Files'<br>
+-On the next form click 'Settings'<br>
 -On the next form and on each input field, browse or paste the file path for each  corresponding folder inside 'Drawing Lookup Test Folder'
-(eg. 'Sync Folder', 'Push Folder', 'Log Folder')
+(eg. 'Sync Folder', 'Push Folder', 'Log Folder')<br>
 
 **The Sync Folder is where the end user would user would manually move the files to be synced into the database. The Push Folder is where files
 are moved programatically after they are synced. The Log Folder creates a text file report of failures. If a filename does not meet the requirements
 (or a file exception) the file will stay in the sync folder. This works exceptionally well with large amounts of files**
 
--Accept the settings and click 'Start' in the previous form
--In the folders you will see that many files were synced and some didn't meet file name requirements
+-Accept the settings and click 'Start' in the previous form<br>
+-In the folders you will see that many files were synced and some didn't meet file name requirements<br>
 
 ** File name requirements
 PARTNAME-PARTTYPE-DATE-REVISION
@@ -38,17 +38,17 @@ Part types: AD, MD, CD, VD, RD, PD, XD FD(Assembly Drawing, Machine Drawing, Cus
 Dates: 6 digit number
 Revisions: A-N **
 
--Go back to the menu form
--The first three buttons take you to datagrids accompanied by Adobe Pdf Readers
+-Go back to the menu form<br>
+-The first three buttons take you to datagrids accompanied by Adobe Pdf Readers<br>
 
 **'Full View and Edit' (Admins) lets you view and (Add/Delete/Update) individual files. (Some issues with 'Update' function)
   'Full View' (Admins and Vice Admins) lets you view but not edit.
   'Partial View' (Admins, Vice-Admins, and Sales) only lets you see Customer Drawings with a less capable pdf viewer and image stamp.**
 
--Click on a record to view file
--Scroll wheel click on a record to view a file in the datagrid section
--Right click to view a file in a folder(Admin/Vice Admin only)
--Type in search to search part name
+-Click on a record to view file<br>
+-Scroll wheel click on a record to view a file in the datagrid section<br>
+-Right click to view a file in a folder(Admin/Vice Admin only)<br>
+-Type in search to search part name<br>
 
 **I used Microsoft Access being that it was a small office application 5-8 people. I would probably not use it again. We were able to hide the main drawing folder 
 from peering eyes while still giving read rights sales. I would do a million things knowing what I know now but I am happy with the results. I would
