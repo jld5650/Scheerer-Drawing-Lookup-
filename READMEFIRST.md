@@ -51,7 +51,7 @@ Revisions: A-N **
 -Type in search to search part name<br>
 
 **I used Microsoft Access being that it was a small office application 5-8 people. I would probably not use it again. We were able to hide the main drawing folder 
-from peering eyes while still giving read rights sales. I would do a million things knowing what I know now but I am happy with the results. I would
+from peering eyes while still giving read rights to sales personnel. I would do a million things differently knowing what I know now but I am happy with the results. I would
 love to go back to Scheerer Bearing one day and create something better. Their database hold over 13,000 records to this day. Thanks for viewing.**
 
 
